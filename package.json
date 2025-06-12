@@ -1,0 +1,24 @@
+{
+  "name": "@natashakediacts/shared-utils",
+  "version": "1.1.0",
+  "description": "A collection of reusable utility functions for common tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": ["utilities", "helpers", "shared", "reusable"],
+  "author": "NKedia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaKediacts/sharedlibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NatashaKediacts/sharedlibrary/issues"
+  },
+  "homepage": "https://github.com/NatashaKediacts/sharedlibrary#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
